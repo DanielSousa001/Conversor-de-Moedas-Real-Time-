@@ -2,11 +2,14 @@
 
 programa de conversão de moedas que permite converter valores entre diferentes moedas utilizando taxas de câmbio atualizadas em tempo real.
 
+
+
 🚀 Funcionalidades
 ✅ Conversão entre diversas moedas
 ✅ Consulta de taxas de câmbio atualizadas
 ✅ Interface simples e intuitiva
 ✅ Suporte para múltiplas APIs de câmbio
+
 
 
 🛠️ Tecnologias Utilizadas
